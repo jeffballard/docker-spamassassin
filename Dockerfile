@@ -1,4 +1,4 @@
-FROM cae-debian-base:latest
+FROM jeffballard/cae-debian-base:latest
 
 #MAINTAINER Christian Luginbühl <dinkel@pimprecords.com>
 MAINTAINER Jeff Ballard <ballard@nosplamwisc.edu>
